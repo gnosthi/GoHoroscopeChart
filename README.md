@@ -21,3 +21,9 @@ Some other configuration is stored in `.env` file. Check `.env.example`
 ## Screenshot
 
 ![Horoscope](images/horoscope.png)
+
+
+## This is a test of repo watching
+
+Test test test
+
